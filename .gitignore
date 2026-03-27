@@ -1,0 +1,21 @@
+# Compiled binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go build cache
+/vendor/
+
+# Test binary / coverage
+*.test
+*.out
+coverage.html
+
+# Temporary test db file
+test_users.json
+
+# OS junk
+.DS_Store
+Thumbs.db
